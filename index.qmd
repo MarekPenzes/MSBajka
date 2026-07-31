@@ -1,7 +1,104 @@
 ---
-title: "MSBajka"
+title: "Domov"
 ---
 
-This is a Quarto website.
+::: {.hero}
+# Materská škola Bajka
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Miesto, kde sa deti hrajú, učia a rastú s úsmevom na tvári.
+
+[Prihláste dieťa](kontakt.qmd){.btn-bajka}
+:::
+
+<!-- Kratke predstavenie skolky -->
+::: {.section .reveal}
+## Vitajte v Bajke
+
+Sme malá materská škola, ktorá sa venuje všestrannému rozvoju detí
+od 3 do 6 rokov. Náš program kombinuje hru, tvorivosť a základy prípravy
+na školu v priateľskom a bezpečnom prostredí.
+:::
+
+<!-- Vyhody -->
+::: {.section .reveal}
+## Prečo si vybrať Bajku
+
+::: {.card-grid}
+::: {.bajka-card .pink}
+<div class="icon">1</div>
+**Skúsené učiteľky**
+
+Kvalifikované a empatické učiteľky s dlhoročnou praxou.
+:::
+
+::: {.bajka-card .yellow}
+<div class="icon">2</div>
+**Bezpečné prostredie**
+
+Zabezpečený areál a moderne vybavené triedy.
+:::
+
+::: {.bajka-card .peach}
+<div class="icon">3</div>
+**Pestrý program**
+
+Pohybové aktivity, kreatívna tvorba, čitanie a mnoho ďalšieho.
+:::
+
+::: {.bajka-card .green}
+<div class="icon">4</div>
+**Skvelá atmosféra**
+
+Malý kolektív, individuálny prístup ku každému dieťaťu.
+:::
+:::
+:::
+
+<!-- Novinky -->
+::: {.section .reveal}
+## Novinky
+
+::: {.card-grid}
+::: {.bajka-card}
+**Zápis na nový školský rok**
+
+Zápis detí na školský rok 2026/2027 prebieha do 15. augusta 2026.
+:::
+
+
+::: {.bajka-card}
+**Deň otvorených dverí**
+
+Príďte sa pozrieť k nám - najbližší termín čakajte čoskoro.
+:::
+:::
+:::
+
+<!-- Galeria -->
+::: {.section .reveal}
+## Galéria
+
+::: {.gallery-grid}
+::: {.placeholder}
+Foto 1
+:::
+::: {.placeholder}
+Foto 2
+:::
+::: {.placeholder}
+Foto 3
+:::
+::: {.placeholder}
+Foto 4
+:::
+:::
+:::
+
+<!-- CTA -->
+::: {.cta .reveal}
+## Máte záujem o našu škôlku?
+
+Radi zodpovieme všetky vaše otázky.
+
+[Kontaktujte nás](kontakt.qmd){.btn-bajka}
+:::

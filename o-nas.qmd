@@ -1,0 +1,72 @@
+---
+title: "O nás"
+---
+
+::: {.hero}
+# O našej škôlke
+
+Spoznajte náš tím, hodnoty a priestory.
+:::
+
+::: {.section .reveal}
+## Náš príbeh
+
+Materská škola Bajka funguje od roku XXXX a počas tejto doby prešlo
+našimi triedami už niekoľko desiatok detí. Zakladáme si na priateľskom
+prostredí a individuálnom prístupe k deťom.
+:::
+
+::: {.section .reveal}
+## Informácie o škôlke
+
+Materská škola v zriaďovateľskej pôsobnosti obce Bajka poskytuje poldennú
+predprimárnu starostlivosť deťom spravidla od troch do šiestich rokov. Na
+území obce je zriadená jedna materská škola bez právnej subjektivity.
+
+Dieťa sa do materskej školy prijíma na základe písomnej žiadosti zákonného
+zástupcu, ktorú predloží riaditeľke materskej školy spolu s potvrdením
+o zdravotnom stave dieťaťa od všeobecného lekára pre deti a dorast. Ak ide
+o dieťa so špeciálnymi výchovno – vzdelávacími potrebami, zákonný zástupca
+predloží aj vyjadrenie príslušného zariadenia výchovného poradenstva
+a prevencie. Rozhodnutie o odklade plnenia povinnej školskej dochádzky
+dieťaťa predloží zákonný zástupca riaditeľke materskej školy spravidla
+do 15. apríla.
+
+Do materskej školy sa prijímajú deti pre nasledujúci školský rok v termíne
+od 1. mája do 31. mája, alebo pokiaľ to kapacitné možnosti materskej školy
+dovolia, aj priebežne. Miesto a termín podávania žiadosti pre nasledujúci
+školský rok zverejní riaditeľka po dohode so zriaďovateľom na budove
+materskej školy a inom verejne dostupnom mieste.
+:::
+
+::: {.section .reveal}
+## Náš tím
+
+::: {.card-grid}
+::: {.bajka-card .pink}
+**Učiteľka/Riaditeľka**
+
+????
+:::
+
+::: {.bajka-card .yellow}
+**Asistentky**
+
+????
+:::
+
+::: {.bajka-card .peach}
+**Kuchynka**
+
+Pripravuje pre deti čerstvé a vyvážené jedlo každý deň.
+:::
+:::
+:::
+
+::: {.section .reveal}
+## Naše priestory
+
+Škôlka disponuje ...
+:::
+
+

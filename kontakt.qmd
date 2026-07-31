@@ -1,0 +1,56 @@
+---
+title: "Kontakt"
+---
+
+::: {.hero}
+# Kontaktujte nás
+
+Radi zodpovieme vaše otázky a ukážeme vám naše priestory.
+:::
+
+::: {.section .reveal}
+::: {.contact-grid}
+::: {.bajka-card .pink}
+**Adresa**
+
+Bajka 54, 935 51  Bajka
+:::
+
+::: {.bajka-card .yellow}
+**Telefón**
+
++421 904 822 960
+:::
+
+::: {.bajka-card .peach}
+**Email**
+
+msbajka54@gmail.com
+:::
+
+::: {.bajka-card .green}
+**Prevádzkové hodiny**
+
+Pondelok - Piatok
+7:00 - 14:00
+:::
+:::
+:::
+
+::: {.section .reveal}
+## Kde nás nájdete
+
+::: {.map-embed}
+<iframe
+  src="https://www.google.com/maps?q=Bajka+54,+935+51+Bajka&output=embed"
+  width="100%"
+  height="100%"
+  style="border:0;"
+  allowfullscreen
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+  title="Mapa - MŠ Bajka">
+</iframe>
+:::
+:::
+

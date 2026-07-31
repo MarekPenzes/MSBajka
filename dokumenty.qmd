@@ -1,0 +1,52 @@
+---
+title: "Dokumenty"
+---
+
+::: {.hero}
+# Dokumenty na stiahnutie
+
+Školský poriadok, tlačivá a iné dôležité dokumenty.
+:::
+
+::: {.section .reveal}
+
+<!--
+  Vzor pre kazdy PDF dokument:
+  1. subor ulozit do priecinka napr. "files/nazov.pdf"
+  2. "Zobrazit" odkaz otvori PDF v novom okne (prehliadac ho zvycajne zobrazi rovno)
+  3. "Stiahnut" odkaz s atributom download vynuti stiahnutie do PC
+-->
+
+<ul class="doc-list">
+  <li class="doc-item">
+    <span class="doc-name">Školský poriadok</span>
+    <span class="doc-actions">
+      <a href="files/skolsky-poriadok.pdf" target="_blank">Zobraziť</a>
+      <a href="files/skolsky-poriadok.pdf" download>Stiahnuť</a>
+    </span>
+  </li>
+  <li class="doc-item">
+    <span class="doc-name">Prihláška na školský rok</span>
+    <span class="doc-actions">
+      <a href="files/prihlaska.pdf" target="_blank">Zobraziť</a>
+      <a href="files/prihlaska.pdf" download>Stiahnuť</a>
+    </span>
+  </li>
+  <li class="doc-item">
+    <span class="doc-name">Zápisný lístok</span>
+    <span class="doc-actions">
+      <a href="files/zapisny-listok.pdf" target="_blank">Zobraziť</a>
+      <a href="files/zapisny-listok.pdf" download>Stiahnuť</a>
+    </span>
+  </li>
+</ul>
+
+:::
+
+::: {.section .reveal}
+## Poznámka
+
+PDF súbory zatiaľ chýbajú - stačí ich pridať do priečinka `files/`
+v koreni projektu a názvy v odkazoch vyššie upraviť podľa skutočných
+názvov súborov.
+:::

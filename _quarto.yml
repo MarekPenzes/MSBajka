@@ -2,20 +2,33 @@ project:
   type: website
 
 website:
-  title: "MSBajka"
+  title: "MŠ Bajka"
+  site-url: ""
+  description: "Materská škola Bajka - miesto, kde rastú úsmevy"
   navbar:
+    background: primary
+    pinned: true
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "Domov"
+      - href: o-nas.qmd
+        text: "O nás"
+      - href: dokumenty.qmd
+        text: "Dokumenty"
+      - href: kontakt.qmd
+        text: "Kontakt"
+  page-footer:
+    left: "© 2026 Materská škola Bajka"
+    center: "Vytvorené s láskou pre vaše deti"
+    right: "Vytvorené - Bc. Marek Penzeš"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    include-in-header: partials/head.html
+    include-after-body: partials/scripts.html
+    toc: false
+    page-layout: full
+    fontsize: 1.05em
+    linkcolor: "#ee6c4d"
