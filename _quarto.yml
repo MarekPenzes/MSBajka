@@ -3,7 +3,7 @@ project:
 
 website:
   title: "MŠ Bajka"
-  site-url: ""
+  site-url: "https://ms-bajka.sk"
   description: "Materská škola Bajka - miesto, kde rastú úsmevy"
   navbar:
     background: primary
