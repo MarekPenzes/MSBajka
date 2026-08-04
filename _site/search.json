@@ -81,7 +81,7 @@
     "href": "dokumenty.html",
     "title": "Dokumenty",
     "section": "",
-    "text": "Školský poriadok, tlačivá a iné dôležité dokumenty."
+    "text": "Dokumenty na stiahnutie\nŠkolský poriadok, tlačivá a iné dôležité dokumenty.\n\n\n\n\n\nŠkolský poriadok  Zobraziť Stiahnuť \n\n\nPrihláška na školský rok  Zobraziť Stiahnuť \n\n\nZápisný lístok  Zobraziť Stiahnuť \n\n\nŠkolský poriadok 2026  Zobraziť Stiahnuť"
   },
   {
     "objectID": "dokumenty.html#poznámka",
@@ -103,5 +103,19 @@
     "title": "Kontakt",
     "section": "Kde nás nájdete",
     "text": "Kde nás nájdete"
+  },
+  {
+    "objectID": "galeria.html",
+    "href": "galeria.html",
+    "title": "Galéria",
+    "section": "",
+    "text": "Galéria\nNahliadnite do života našej škôlky."
+  },
+  {
+    "objectID": "galeria.html#poznámka",
+    "href": "galeria.html#poznámka",
+    "title": "Galéria",
+    "section": "Poznámka",
+    "text": "Poznámka\nObrázky zatiaľ chýbajú - stačí ich pridať do priečinka images/galeria/ v koreni projektu a názvy v zozname vyššie upraviť podľa skutočných názvov súborov."
   }
 ]

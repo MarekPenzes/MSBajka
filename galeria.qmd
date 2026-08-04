@@ -1,0 +1,31 @@
+---
+title: "Galéria"
+---
+
+::: {.hero}
+# Galéria
+
+Nahliadnite do života našej škôlky.
+:::
+
+::: {.section .reveal}
+
+<!--
+  Vzor pre kazdy obrazok v galerii:
+  1. subor ulozit do priecinka "images/galeria/nazov.jpg"
+  2. pridat <img> riadok do zoznamu nizsie (loading="lazy" nechat, zabezpeci postupne
+     nacitavanie az ked sa obrazok priblizi k viditelnej casti obrazovky)
+  3. class "gallery-img" a data-atributy nemenit - stara sa o ne script v scripts.html
+-->
+
+<div class="gallery-grid masonry" id="gallery">
+  <img class="gallery-img" src="images/galeria/01.jpg" alt="Fotka z materskej školy" loading="lazy">
+  <img class="gallery-img" src="images/galeria/02.jpg" alt="Fotka z materskej školy" loading="lazy">
+  <img class="gallery-img" src="images/galeria/03.jpeg" alt="Fotka z materskej školy" loading="lazy">
+  <img class="gallery-img" src="images/galeria/04.jpg" alt="Fotka z materskej školy" loading="lazy">
+  <img class="gallery-img" src="images/galeria/05.jpg" alt="Fotka z materskej školy" loading="lazy">
+  <img class="gallery-img" src="images/galeria/06.jpg" alt="Fotka z materskej školy" loading="lazy">
+</div>
+
+:::
+

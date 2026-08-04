@@ -39,14 +39,14 @@ title: "Dokumenty"
       <a href="files/zapisny-listok.pdf" download>Stiahnuť</a>
     </span>
   </li>
+  <li class="doc-item">
+    <span class="doc-name">Školský poriadok 2026</span>
+    <span class="doc-actions">
+      <a href="files/skolsky_poriadok2026.pdf" target="_blank">Zobraziť</a>
+      <a href="files/skolsky_poriadok2026.pdf" download>Stiahnuť</a>
+    </span>
+  </li>
 </ul>
 
 :::
 
-::: {.section .reveal}
-## Poznámka
-
-PDF súbory zatiaľ chýbajú - stačí ich pridať do priečinka `files/`
-v koreni projektu a názvy v odkazoch vyššie upraviť podľa skutočných
-názvov súborov.
-:::

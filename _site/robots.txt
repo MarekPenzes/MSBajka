@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://ms-bajka.sk/sitemap.xml

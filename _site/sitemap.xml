@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/o-nas.html</loc>
-    <lastmod>2026-07-31T13:13:22.867Z</lastmod>
+    <loc>https://ms-bajka.sk/o-nas.html</loc>
+    <lastmod>2026-07-31T13:44:53.894Z</lastmod>
   </url>
   <url>
-    <loc>/index.html</loc>
-    <lastmod>2026-07-31T13:10:12.863Z</lastmod>
+    <loc>https://ms-bajka.sk/index.html</loc>
+    <lastmod>2026-07-31T13:44:53.893Z</lastmod>
   </url>
   <url>
-    <loc>/dokumenty.html</loc>
-    <lastmod>2026-07-31T12:59:00.024Z</lastmod>
+    <loc>https://ms-bajka.sk/dokumenty.html</loc>
+    <lastmod>2026-08-04T09:16:29.223Z</lastmod>
   </url>
   <url>
-    <loc>/kontakt.html</loc>
-    <lastmod>2026-07-31T13:18:12.546Z</lastmod>
+    <loc>https://ms-bajka.sk/kontakt.html</loc>
+    <lastmod>2026-07-31T13:44:53.894Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ms-bajka.sk/galeria.html</loc>
+    <lastmod>2026-08-04T09:18:25.986Z</lastmod>
   </url>
 </urlset>
