@@ -32,8 +32,15 @@ msbajka54@gmail.com
 **Prevádzkové hodiny**
 
 Pondelok - Piatok
-7:00 - 14:00
+7:15 - 12:00
 :::
+
+::: {.bajka-card .blue}
+**Riaditeľka/Učiteľka**
+
+Eva Tóthová
+:::
+
 :::
 :::
 

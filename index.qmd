@@ -26,9 +26,9 @@ na školu v priateľskom a bezpečnom prostredí.
 ::: {.card-grid}
 ::: {.bajka-card .pink}
 <div class="icon">1</div>
-**Skúsené učiteľky**
+**Skúsená učiteľka**
 
-Kvalifikované a empatické učiteľky s dlhoročnou praxou.
+Kvalifikovaná a empatická učiteľka s dlhoročnou praxou.
 :::
 
 ::: {.bajka-card .yellow}
@@ -60,16 +60,12 @@ Malý kolektív, individuálny prístup ku každému dieťaťu.
 
 ::: {.card-grid}
 ::: {.bajka-card}
-**Zápis na nový školský rok**
 
-Zápis detí na školský rok 2026/2027 prebieha do 15. augusta 2026.
 :::
 
 
 ::: {.bajka-card}
-**Deň otvorených dverí**
 
-Príďte sa pozrieť k nám - najbližší termín čakajte čoskoro.
 :::
 :::
 :::
