@@ -26,7 +26,7 @@ výchovú a vzdelávanie deťom spravidla od troch do šiestich rokov. Na
 Dieťa sa do materskej školy prijíma na základe písomnej žiadosti zákonného
 zástupcu, ktorú predloží riaditeľke materskej školy spolu s potvrdením
 o zdravotnom stave dieťaťa od všeobecného lekára pre deti a dorast alebo je možné podať prihlášku elektronicky cez: 
-https://eprihlasky.iedu.sk/  
+<https://eprihlasky.iedu.sk/>  
 Ak ide o dieťa so špeciálnymi výchovno – vzdelávacími potrebami, zákonný zástupca
 predloží aj vyjadrenie príslušného zariadenia výchovného poradenstva
 a prevencie.
