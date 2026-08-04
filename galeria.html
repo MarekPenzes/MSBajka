@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Domov – MŠ Bajka</title>
+<title>Galéria – MŠ Bajka</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Domov</span></a>
   </li>  
   <li class="nav-item">
@@ -113,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Dokumenty</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./galeria.html"> 
+    <a class="nav-link active" href="./galeria.html" aria-current="page"> 
 <span class="menu-text">Galéria</span></a>
   </li>  
   <li class="nav-item">
@@ -137,7 +137,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Domov</h1>
+<h1 class="title">Galéria</h1>
 </div>
 
 
@@ -154,87 +154,21 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="materská-škola-bajka" class="level1 hero">
-<h1>Materská škola Bajka</h1>
-<p>Miesto, kde sa deti hrajú, učia a rastú s úsmevom na tvári.</p>
-<p><a href="./kontakt.html" class="btn-bajka">Prihláste dieťa</a></p>
+<section id="galéria" class="level1 hero">
+<h1>Galéria</h1>
+<p>Nahliadnite do života našej škôlky.</p>
 </section>
-<!-- Kratke predstavenie skolky -->
-<section id="vitajte-v-bajke" class="level2 reveal">
-<h2 class="anchored" data-anchor-id="vitajte-v-bajke">Vitajte v Bajke</h2>
-<p>Sme malá materská škola, ktorá sa venuje všestrannému rozvoju detí od 3 do 6 rokov. Náš program kombinuje hru, tvorivosť a základy prípravy na školu v priateľskom a bezpečnom prostredí.</p>
-</section>
-<!-- Vyhody -->
-<section id="prečo-si-vybrať-bajku" class="level2 reveal">
-<h2 class="anchored" data-anchor-id="prečo-si-vybrať-bajku">Prečo si vybrať Bajku</h2>
-<div class="card-grid">
-<div class="bajka-card pink">
-<div class="icon">
-1
+<section class="reveal">
+<!--
+  Vzor pre kazdy obrazok v galerii:
+  1. subor ulozit do priecinka "images/galeria/nazov.jpg"
+  2. pridat <img> riadok do zoznamu nizsie (loading="lazy" nechat, zabezpeci postupne
+     nacitavanie az ked sa obrazok priblizi k viditelnej casti obrazovky)
+  3. class "gallery-img" a data-atributy nemenit - stara sa o ne script v scripts.html
+-->
+<div id="gallery" class="gallery-grid masonry">
+<p><img class="gallery-img" src="images/galeria/01.jpg" alt="Fotka z materskej školy" loading="lazy"> <img class="gallery-img" src="images/galeria/02.jpg" alt="Fotka z materskej školy" loading="lazy"> <img class="gallery-img" src="images/galeria/03.jpeg" alt="Fotka z materskej školy" loading="lazy"> <img class="gallery-img" src="images/galeria/04.jpg" alt="Fotka z materskej školy" loading="lazy"> <img class="gallery-img" src="images/galeria/05.jpg" alt="Fotka z materskej školy" loading="lazy"> <img class="gallery-img" src="images/galeria/06.jpg" alt="Fotka z materskej školy" loading="lazy"></p>
 </div>
-<p><strong>Skúsené učiteľky</strong></p>
-<p>Kvalifikované a empatické učiteľky s dlhoročnou praxou.</p>
-</div>
-<div class="bajka-card yellow">
-<div class="icon">
-2
-</div>
-<p><strong>Bezpečné prostredie</strong></p>
-<p>Zabezpečený areál a moderne vybavené triedy.</p>
-</div>
-<div class="bajka-card peach">
-<div class="icon">
-3
-</div>
-<p><strong>Pestrý program</strong></p>
-<p>Pohybové aktivity, kreatívna tvorba, čitanie a mnoho ďalšieho.</p>
-</div>
-<div class="bajka-card green">
-<div class="icon">
-4
-</div>
-<p><strong>Skvelá atmosféra</strong></p>
-<p>Malý kolektív, individuálny prístup ku každému dieťaťu.</p>
-</div>
-</div>
-</section>
-<!-- Novinky -->
-<section id="novinky" class="level2 reveal">
-<h2 class="anchored" data-anchor-id="novinky">Novinky</h2>
-<div class="card-grid">
-<div class="bajka-card">
-<p><strong>Zápis na nový školský rok</strong></p>
-<p>Zápis detí na školský rok 2026/2027 prebieha do 15. augusta 2026.</p>
-</div>
-<div class="bajka-card">
-<p><strong>Deň otvorených dverí</strong></p>
-<p>Príďte sa pozrieť k nám - najbližší termín čakajte čoskoro.</p>
-</div>
-</div>
-</section>
-<!-- Galeria -->
-<section id="galéria" class="level2 reveal">
-<h2 class="anchored" data-anchor-id="galéria">Galéria</h2>
-<div class="gallery-grid">
-<div class="placeholder">
-<p>Foto 1</p>
-</div>
-<div class="placeholder">
-<p>Foto 2</p>
-</div>
-<div class="placeholder">
-<p>Foto 3</p>
-</div>
-<div class="placeholder">
-<p>Foto 4</p>
-</div>
-</div>
-</section>
-<!-- CTA -->
-<section id="máte-záujem-o-našu-škôlku" class="level2 cta reveal">
-<h2 class="anchored" data-anchor-id="máte-záujem-o-našu-škôlku">Máte záujem o našu škôlku?</h2>
-<p>Radi zodpovieme všetky vaše otázky.</p>
-<p><a href="./kontakt.html" class="btn-bajka">Kontaktujte nás</a></p>
 </section>
 
 
