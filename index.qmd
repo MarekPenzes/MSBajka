@@ -74,25 +74,7 @@ Príďte sa pozrieť k nám - najbližší termín čakajte čoskoro.
 :::
 :::
 
-<!-- Galeria -->
-::: {.section .reveal}
-## Galéria
 
-::: {.gallery-grid}
-::: {.placeholder}
-Foto 1
-:::
-::: {.placeholder}
-Foto 2
-:::
-::: {.placeholder}
-Foto 3
-:::
-::: {.placeholder}
-Foto 4
-:::
-:::
-:::
 
 <!-- CTA -->
 ::: {.cta .reveal}
