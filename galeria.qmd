@@ -19,12 +19,6 @@ Nahliadnite do života našej škôlky.
 -->
 
 <div class="gallery-grid masonry" id="gallery">
-  <img class="gallery-img" src="images/galeria/01.jpg" alt="Fotka z materskej školy" loading="lazy">
-  <img class="gallery-img" src="images/galeria/02.jpg" alt="Fotka z materskej školy" loading="lazy">
-  <img class="gallery-img" src="images/galeria/03.jpeg" alt="Fotka z materskej školy" loading="lazy">
-  <img class="gallery-img" src="images/galeria/04.jpg" alt="Fotka z materskej školy" loading="lazy">
-  <img class="gallery-img" src="images/galeria/05.jpg" alt="Fotka z materskej školy" loading="lazy">
-  <img class="gallery-img" src="images/galeria/06.jpg" alt="Fotka z materskej školy" loading="lazy">
 </div>
 
 :::
