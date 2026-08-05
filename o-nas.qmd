@@ -11,9 +11,8 @@ Spoznajte náš tím, hodnoty a priestory.
 ::: {.section .reveal}
 ## Náš príbeh
 
-Materská škola Bajka funguje od roku XXXX a počas tejto doby prešlo
-našimi triedami už niekoľko desiatok detí. Zakladáme si na priateľskom
-prostredí a individuálnom prístupe k deťom.
+Od vzniku materskej škôlky Bajka prešlo našimi triedami už niekoľko desiatok detí. 
+Zakladáme si na priateľskom prostredí a individuálnom prístupe k deťom.
 :::
 
 ::: {.section .reveal}
